@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/tK7SxjN/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/52SntcS/Black-and-White-Minimalist-Professional-Job-Profile-Linkedin-Background-photo.png"  />
 </div>
 
 ###
