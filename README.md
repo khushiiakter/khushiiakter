@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/52SntcS/Black-and-White-Minimalist-Professional-Job-Profile-Linkedin-Background-photo.png"  />
+  <img height="200" src="https://i.ibb.co.com/4Zsc7xN1/bannermine.png"  />
 </div>
 
 ###
