@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/khushiiakter/khushiiakter/output/snake.svg" alt="Snake animation" />
+
 
 ###
